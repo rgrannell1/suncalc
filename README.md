@@ -1,7 +1,5 @@
 # SunCalc
 
-[![Build Status](https://travis-ci.org/mourner/suncalc.svg?branch=master)](https://travis-ci.org/mourner/suncalc)
-
 > A fork of SunCalc, to use ESM
 
 SunCalc is a tiny BSD-licensed JavaScript library for calculating sun position,
